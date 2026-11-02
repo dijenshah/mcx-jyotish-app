@@ -1,10 +1,10 @@
 {
  "meta": {
   "version": 1,
-  "updated_utc": "2026-11-02T16:00:11Z",
-  "updated_ist": "2026-11-02 21:30 IST",
+  "updated_utc": "2026-11-02T16:10:22Z",
+  "updated_ist": "2026-11-02 21:40 IST",
   "live_from_utc": "2026-11-02T15:37:17Z",
-  "prices_through_ist": "2026-11-02 21:19 IST",
+  "prices_through_ist": "2026-11-02 21:30 IST",
   "seen_posts": [
    "2070462645615169712",
    "2070492256839274688",
@@ -35,6 +35,7 @@
    "2099351999397707947",
    "2100121794380488830",
    "2100225716768190478",
+   "2100296507060879423",
    "2100560993554481325",
    "2100615955760189908",
    "2101828477632872567",
@@ -43,6 +44,7 @@
    "2102416700251726267",
    "2102673279022670154",
    "2102733138120380524",
+   "2102757685246755071",
    "2102784729103634628",
    "2103011029290795338",
    "2103138380527927648",
@@ -55,6 +57,7 @@
    "2105100168400187869",
    "2105183752834240572",
    "2105278739852792030",
+   "2105649295089340553",
    "2105980589237284968",
    "2106675169079283926",
    "2107451175100731433",
@@ -75,9 +78,11 @@
    "2112136410719531231",
    "2112488349365936196",
    "2112795493327937768",
+   "2112871820340949007",
    "2114208207283671443",
    "2115449952029585624",
    "2116065245529821534",
+   "2116086857763316210",
    "2116725551432188345",
    "2117142648905687346",
    "2117279616079736891"
@@ -90,6 +95,8 @@
   {
    "handle": "Manan__Trader",
    "mode": "straight",
+   "observation": false,
+   "in_combined": true,
    "url": "https://x.com/Manan__Trader",
    "all": {
     "calls": 20,
@@ -139,6 +146,8 @@
   {
    "handle": "Janey_Analyst",
    "mode": "straight",
+   "observation": false,
+   "in_combined": true,
    "url": "https://x.com/Janey_Analyst",
    "all": {
     "calls": 14,
@@ -188,6 +197,8 @@
   {
    "handle": "chiragkb5",
    "mode": "inverted",
+   "observation": false,
+   "in_combined": true,
    "url": "https://x.com/chiragkb5",
    "all": {
     "calls": 20,
@@ -237,6 +248,8 @@
   {
    "handle": "Cali_Xauusd",
    "mode": "inverted",
+   "observation": false,
+   "in_combined": true,
    "url": "https://x.com/Cali_Xauusd",
    "all": {
     "calls": 21,
@@ -282,6 +295,57 @@
    },
    "other_mode_hit_rate": 0.25,
    "other_mode_resolved": 16
+  },
+  {
+   "handle": "piyushratnu",
+   "mode": "straight",
+   "observation": true,
+   "in_combined": false,
+   "url": "https://x.com/piyushratnu",
+   "all": {
+    "calls": 5,
+    "resolved": 4,
+    "wins": 4,
+    "losses": 0,
+    "hit_rate": 1.0,
+    "ci_lo": 0.5101,
+    "ci_hi": 1.0,
+    "avg_R": 1.0,
+    "open": 0,
+    "no_entry": 0,
+    "expired": 1,
+    "other": 0
+   },
+   "live": {
+    "calls": 0,
+    "resolved": 0,
+    "wins": 0,
+    "losses": 0,
+    "hit_rate": null,
+    "ci_lo": null,
+    "ci_hi": null,
+    "avg_R": null,
+    "open": 0,
+    "no_entry": 0,
+    "expired": 0,
+    "other": 0
+   },
+   "historical": {
+    "calls": 5,
+    "resolved": 4,
+    "wins": 4,
+    "losses": 0,
+    "hit_rate": 1.0,
+    "ci_lo": 0.5101,
+    "ci_hi": 1.0,
+    "avg_R": 1.0,
+    "open": 0,
+    "no_entry": 0,
+    "expired": 1,
+    "other": 0
+   },
+   "other_mode_hit_rate": 0.0,
+   "other_mode_resolved": 4
   }
  ],
  "combined": {
@@ -412,6 +476,41 @@
    }
   },
   {
+   "id": "2116086857763316210",
+   "handle": "piyushratnu",
+   "t": "2026-10-30T08:36:36Z",
+   "t_ist": "2026-10-30 14:06",
+   "source": "historical",
+   "inst": "XAU",
+   "side": "S",
+   "entry": null,
+   "tp": 3949,
+   "sl": null,
+   "entry_mode": "mkt",
+   "cmp": null,
+   "note": "",
+   "text": "🔴 TRADING on HOLD | | $3949/3939/3929 awaited | | #XAUUSD",
+   "url": "https://x.com/piyushratnu/status/2116086857763316210",
+   "mode": "straight",
+   "res": {
+    "status": "win",
+    "R": 1.0,
+    "pct": 0.956,
+    "resolved_t_ist": "2026-10-30 18:31",
+    "flag": "market",
+    "sl_assumed": true,
+    "side_eff": "S",
+    "entry_px": 3987.1,
+    "tp_eff": 3949.0,
+    "sl_eff": 4025.2,
+    "entry_t_ist": "2026-10-30 14:07"
+   },
+   "res_alt": {
+    "status": "loss",
+    "R": -1.0
+   }
+  },
+  {
    "id": "2116065245529821534",
    "handle": "Janey_Analyst",
    "t": "2026-10-30T07:10:43Z",
@@ -510,6 +609,41 @@
     "tp_eff": 4000.0,
     "sl_eff": 4052.0,
     "entry_t_ist": "2026-10-26 18:01"
+   },
+   "res_alt": {
+    "status": "loss",
+    "R": -1.0
+   }
+  },
+  {
+   "id": "2112871820340949007",
+   "handle": "piyushratnu",
+   "t": "2026-10-21T11:41:11Z",
+   "t_ist": "2026-10-21 17:11",
+   "source": "historical",
+   "inst": "XAU",
+   "side": "S",
+   "entry": null,
+   "tp": 4104,
+   "sl": null,
+   "entry_mode": "mkt",
+   "cmp": null,
+   "note": "",
+   "text": "USDJPY RT + in process | | Lower XAUUSD Price zone awaited | | $4104/4085 #XAUUSD",
+   "url": "https://x.com/piyushratnu/status/2112871820340949007",
+   "mode": "straight",
+   "res": {
+    "status": "win",
+    "R": 1.0,
+    "pct": 0.559,
+    "resolved_t_ist": "2026-10-22 09:45",
+    "flag": "market",
+    "sl_assumed": true,
+    "side_eff": "S",
+    "entry_px": 4127.075,
+    "tp_eff": 4104.0,
+    "sl_eff": 4150.15,
+    "entry_t_ist": "2026-10-21 17:12"
    },
    "res_alt": {
     "status": "loss",
@@ -1170,6 +1304,41 @@
    }
   },
   {
+   "id": "2105649295089340553",
+   "handle": "piyushratnu",
+   "t": "2026-10-01T13:21:27Z",
+   "t_ist": "2026-10-01 18:51",
+   "source": "historical",
+   "inst": "XAU",
+   "side": "S",
+   "entry": null,
+   "tp": 4141,
+   "sl": null,
+   "entry_mode": "mkt",
+   "cmp": null,
+   "note": "",
+   "text": "$4185-4169 zone | completed | | $4141/4114 awaited | | Reversal $4202/4224 #XAUUSD",
+   "url": "https://x.com/piyushratnu/status/2105649295089340553",
+   "mode": "straight",
+   "res": {
+    "status": "win",
+    "R": 1.0,
+    "pct": 0.908,
+    "resolved_t_ist": "2026-10-02 07:39",
+    "flag": "market",
+    "sl_assumed": true,
+    "side_eff": "S",
+    "entry_px": 4178.965,
+    "tp_eff": 4141.0,
+    "sl_eff": 4216.93,
+    "entry_t_ist": "2026-10-01 18:52"
+   },
+   "res_alt": {
+    "status": "loss",
+    "R": -1.0
+   }
+  },
+  {
    "id": "2105278739852792030",
    "handle": "Manan__Trader",
    "t": "2026-09-30T12:49:00Z",
@@ -1510,6 +1679,41 @@
    }
   },
   {
+   "id": "2102757685246755071",
+   "handle": "piyushratnu",
+   "t": "2026-09-23T13:51:14Z",
+   "t_ist": "2026-09-23 19:21",
+   "source": "historical",
+   "inst": "XAU",
+   "side": "S",
+   "entry": null,
+   "tp": 4269,
+   "sl": null,
+   "entry_mode": "mkt",
+   "cmp": null,
+   "note": "",
+   "text": "#XAUUSD | $4269/4242/4224 on radar?",
+   "url": "https://x.com/piyushratnu/status/2102757685246755071",
+   "mode": "straight",
+   "res": {
+    "status": "win",
+    "R": 1.0,
+    "pct": 0.759,
+    "resolved_t_ist": "2026-09-24 14:48",
+    "flag": "market",
+    "sl_assumed": true,
+    "side_eff": "S",
+    "entry_px": 4301.645,
+    "tp_eff": 4269.0,
+    "sl_eff": 4334.29,
+    "entry_t_ist": "2026-09-23 19:22"
+   },
+   "res_alt": {
+    "status": "loss",
+    "R": -1.0
+   }
+  },
+  {
    "id": "2102733138120380524",
    "handle": "Manan__Trader",
    "t": "2026-09-23T12:13:41Z",
@@ -1767,6 +1971,38 @@
     "tp_eff": 4032.99,
     "sl_eff": 4630.0,
     "entry_t_ist": "2026-09-17 17:53"
+   },
+   "res_alt": {
+    "status": "expired"
+   }
+  },
+  {
+   "id": "2100296507060879423",
+   "handle": "piyushratnu",
+   "t": "2026-09-16T18:51:23Z",
+   "t_ist": "2026-09-17 00:21",
+   "source": "historical",
+   "inst": "XAU",
+   "side": "S",
+   "entry": null,
+   "tp": 4224,
+   "sl": null,
+   "entry_mode": "mkt",
+   "cmp": null,
+   "note": "",
+   "text": "🆘 $4224/4202/4185 awaited | | I will BUY LOWS and Exit in NAP | | #XAUUSD #Gold",
+   "url": "https://x.com/piyushratnu/status/2100296507060879423",
+   "mode": "straight",
+   "res": {
+    "status": "expired",
+    "R_mtm": 0.459,
+    "flag": "market",
+    "sl_assumed": true,
+    "side_eff": "S",
+    "entry_px": 4346.255,
+    "tp_eff": 4224.0,
+    "sl_eff": 4468.51,
+    "entry_t_ist": "2026-09-17 00:22"
    },
    "res_alt": {
     "status": "expired"
