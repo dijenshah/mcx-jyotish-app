@@ -1,0 +1,22 @@
+{
+  "versionCode": 4,
+  "versionName": "1.3.0",
+  "changelog": "• કોઈ પણ દિવસના કાર્ડ પર ટેપ કરો → 4 સત્ર (સવાર/બપોર/સાંજ/રાત), આખા દિવસનો સારાંશ અને તે દિવસનું પંચાંગ\n• અઠવાડિયા/મહિના કાર્ડ → દિવસ પ્રમાણે યાદી\n• ઇન-એપ અપડેટ હવે GitHub થી ચાલુ",
+  "apks": {
+    "arm64-v8a": {
+      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.3.0/app-arm64-v8a-release.apk",
+      "sha256": "939b66255b2fb5335ab2b0d8672340f97f854b438b63440519c201d1f5560aa3",
+      "size": 21407800
+    },
+    "armeabi-v7a": {
+      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.3.0/app-armeabi-v7a-release.apk",
+      "sha256": "5285752361a7822e1ec3bc39cef8b451c45d0020caeb689ee1c249a64c81536b",
+      "size": 18925630
+    },
+    "x86_64": {
+      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.3.0/app-x86_64-release.apk",
+      "sha256": "fed2f0afe59bf46814a6271adb79d19f20df71ac948caf40178f9435d5e3bb0f",
+      "size": 22964271
+    }
+  }
+}
