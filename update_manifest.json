@@ -1,22 +1,22 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
-  "changelog": "• કેસ સ્ટડી હવે સંપૂર્ણ ઓટોમેટિક: \"સાચવો\" બટન નથી. સોનું/ચાંદી × દૈનિક, 4 સત્ર, સાપ્તાહિક, માસિક — બધા અનુમાન આપમેળે નોંધાય છે\n• એપ ઘણા દિવસ બંધ રહે તો ખૂલતાં ખૂટતા દિવસો ભરાય છે (તે સમય પહેલાંના ડેટાથી, \"બેકફિલ\" ચિહ્ન સાથે; LIVE અલગ)\n• એપ ખૂલતાં ભાવ અપડેટ → પરિણામ → શિક્ષણ આપમેળે; રોજ ~23:45 IST બેકગ્રાઉન્ડમાં પણ\n• સત્ર અનુમાન માટે પણ સ્વ-શિક્ષણ; કેસ સ્ક્રીનમાં સોનું/ચાંદી, દૈનિક/સત્ર/સાપ્તાહિક/માસિક ફિલ્ટર અને LIVE ચોકસાઈ સારાંશ",
+  "versionCode": 6,
+  "versionName": "1.5.0",
+  "changelog": "• નવું: \"X અનુમાન\" સ્ક્રીન (ઉપર @ ચિહ્ન અને Home પર કાર્ડ) — Manan__Trader અને Janey_Analyst સીધા, chiragkb5 અને Cali_Xauusd ઊંધા (વિરુદ્ધ દિશા, ટાર્ગેટ↔સ્ટોપ અદલાબદલી)\n• દરેક હેન્ડલની લાઇવ અને ઐતિહાસિક ચોકસાઈ અલગ (નમૂના-સંખ્યા, 95% શ્રેણી, સરેરાશ R), ચારેયની સંયુક્ત સરેરાશ, તાજેતરના કોલ ✓/✗/ખુલ્લું\n• ડેટા GitHub પરથી આપમેળે આવે છે (રૂટિનથી અપડેટ), ઓફલાઇન કેશ; જ્યોતિષ લાઇવ ચોકસાઈ સાથે બાજુ-બાજુ \"અંતિમ દૃશ્ય\"\n• સાવચેતી: ઊંધું લેવાનો નિર્ણય ભૂતકાળના ખોટા પડવા પરથી થયો, એટલે ઐતિહાસિક ઊંધી ચોકસાઈ ફુલાવેલી છે — ફક્ત લાઇવ આંકડા ખરી કસોટી. સલાહ નથી.",
   "apks": {
     "arm64-v8a": {
-      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.4.0/app-arm64-v8a-release.apk",
-      "sha256": "aa3ae46205cd3aa8c0ac70ea44b349eae7a63800b89c93302efec95aaeb08992",
+      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.5.0/app-arm64-v8a-release.apk",
+      "sha256": "af3d493a7189c3b8aa5102634c8029850d456075635103e74f7e61b1837dcd75",
       "size": 21711544
     },
     "armeabi-v7a": {
-      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.4.0/app-armeabi-v7a-release.apk",
-      "sha256": "4c2751cb1cc4b7a0d451b5970dda62d6d80c521db1bb90e1a2e615be84e40793",
-      "size": 19212990
+      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.5.0/app-armeabi-v7a-release.apk",
+      "sha256": "4d2fe02e69d879efe1b88f735ca3f50e4caf8339c2a236ee98e6e432c5c9b153",
+      "size": 19229374
     },
     "x86_64": {
-      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.4.0/app-x86_64-release.apk",
-      "sha256": "1818e7ec2456e4149693c5499e3023a9e7d6eafc1c870b00430311a960a9efdb",
-      "size": 23202479
+      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.5.0/app-x86_64-release.apk",
+      "sha256": "7c6aa42eec5e96325f7a2654ce3a1ea8a6037a9048564642ae24d66c135dbe8b",
+      "size": 23268015
     }
   }
 }
