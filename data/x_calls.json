@@ -1,10 +1,10 @@
 {
  "meta": {
   "version": 1,
-  "updated_utc": "2026-11-02T16:10:22Z",
-  "updated_ist": "2026-11-02 21:40 IST",
+  "updated_utc": "2026-11-02T18:05:19Z",
+  "updated_ist": "2026-11-02 23:35 IST",
   "live_from_utc": "2026-11-02T15:37:17Z",
-  "prices_through_ist": "2026-11-02 21:30 IST",
+  "prices_through_ist": "2026-11-02 23:25 IST",
   "seen_posts": [
    "2070462645615169712",
    "2070492256839274688",
@@ -85,7 +85,9 @@
    "2116086857763316210",
    "2116725551432188345",
    "2117142648905687346",
-   "2117279616079736891"
+   "2117279616079736891",
+   "2117289667838300380",
+   "2117292949843394836"
   ],
   "needs_review": [],
   "method": "Straight: call taken as posted. Inverted: same trigger, opposite side; target = original stop level, stop = original target level (no stop posted -> assumed 1R = target distance). Win = first touch of target before stop on 1-min bars (same-minute touch counts as stop). Entry: market at post, or limit/breakout touch of the stated level within 24h. Horizon ~5 trading days; no result -> open/expired (not counted). XAU/XAG = spot (HistData to 30 Oct 2026, then Yahoo GC=F/SI=F minus basis); MCX = spot x USDINR x calibration.",
@@ -399,10 +401,18 @@
    "url": "https://x.com/Manan__Trader/status/2117279616079736891",
    "mode": "straight",
    "res": {
-    "status": "pending"
+    "status": "open",
+    "R_mtm": 0.591,
+    "flag": "touched",
+    "sl_assumed": false,
+    "side_eff": "S",
+    "entry_px": 3970.0,
+    "tp_eff": 3940.0,
+    "sl_eff": 3992.0,
+    "entry_t_ist": "2026-11-02 22:06"
    },
    "res_alt": {
-    "status": "pending"
+    "status": "open"
    }
   },
   {
