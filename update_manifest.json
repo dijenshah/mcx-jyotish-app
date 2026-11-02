@@ -1,21 +1,21 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5.0",
-  "changelog": "• નવું: \"X અનુમાન\" સ્ક્રીન (ઉપર @ ચિહ્ન અને Home પર કાર્ડ) — Manan__Trader અને Janey_Analyst સીધા, chiragkb5 અને Cali_Xauusd ઊંધા (વિરુદ્ધ દિશા, ટાર્ગેટ↔સ્ટોપ અદલાબદલી)\n• દરેક હેન્ડલની લાઇવ અને ઐતિહાસિક ચોકસાઈ અલગ (નમૂના-સંખ્યા, 95% શ્રેણી, સરેરાશ R), ચારેયની સંયુક્ત સરેરાશ, તાજેતરના કોલ ✓/✗/ખુલ્લું\n• ડેટા GitHub પરથી આપમેળે આવે છે (રૂટિનથી અપડેટ), ઓફલાઇન કેશ; જ્યોતિષ લાઇવ ચોકસાઈ સાથે બાજુ-બાજુ \"અંતિમ દૃશ્ય\"\n• સાવચેતી: ઊંધું લેવાનો નિર્ણય ભૂતકાળના ખોટા પડવા પરથી થયો, એટલે ઐતિહાસિક ઊંધી ચોકસાઈ ફુલાવેલી છે — ફક્ત લાઇવ આંકડા ખરી કસોટી. સલાહ નથી.",
+  "versionCode": 7,
+  "versionName": "1.5.1",
+  "changelog": "• X અનુમાન: નવું હેન્ડલ @piyushratnu \"નિરીક્ષણ હેઠળ\" બેજ સાથે — બતાવાય છે પણ ઓછામાં ઓછા 20 ઉકેલાયેલ કોલ થાય ત્યાં સુધી સંયુક્ત સરેરાશમાં ગણાતો નથી",
   "apks": {
     "arm64-v8a": {
-      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.5.0/app-arm64-v8a-release.apk",
-      "sha256": "af3d493a7189c3b8aa5102634c8029850d456075635103e74f7e61b1837dcd75",
+      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.5.1/app-arm64-v8a-release.apk",
+      "sha256": "cf94ff77e4c3c27353ea9f91398157fe663b87a23dd0abb51a7c2d980b59a4ea",
       "size": 21711544
     },
     "armeabi-v7a": {
-      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.5.0/app-armeabi-v7a-release.apk",
-      "sha256": "4d2fe02e69d879efe1b88f735ca3f50e4caf8339c2a236ee98e6e432c5c9b153",
-      "size": 19229374
+      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.5.1/app-armeabi-v7a-release.apk",
+      "sha256": "4603ea239307b3a3d63c26cfab12e1a23698779714415a7f6ba24d3af7f8f094",
+      "size": 19262142
     },
     "x86_64": {
-      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.5.0/app-x86_64-release.apk",
-      "sha256": "7c6aa42eec5e96325f7a2654ce3a1ea8a6037a9048564642ae24d66c135dbe8b",
+      "apkUrl": "https://github.com/dijenshah/mcx-jyotish-app/releases/download/v1.5.1/app-x86_64-release.apk",
+      "sha256": "a75b89569613ed66da132446ef8df40215a09c0cd286ebadc7e01f0ac47ed0a1",
       "size": 23268015
     }
   }
